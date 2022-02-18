@@ -72,10 +72,10 @@ const Content = styled.div`
 `;
 
 const Bigtitle = styled.h1`
-  color: #0071ba;
+  color: #003C58;
   font-size: 2.8rem;
   width: 500px;
-  font-weight: 600;
+  font-weight: 400;
 `;
 
 const Info = styled.p`

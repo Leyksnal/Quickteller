@@ -27,7 +27,7 @@ export default function HeaderComp() {
 
 const Main = styled.div`
     display: flex;
-    justify-content center;
+    justify-content: center;
     align-items: center;
 `;
 
@@ -54,7 +54,7 @@ const Menu = styled.div`
     justify-content: space-between;
 `;
 const Nav = styled.p`
-    color: black;
+    color: #009FE4;
     font-size: 1.3rem;
     font-weight: 500;
     cursor: pointer;

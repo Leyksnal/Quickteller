@@ -29,7 +29,7 @@ const Div = styled.div`
     align-items: center;
     margin-top: 100px;
     flex-direction: column;
-    background=color: #F5FBFE;
+    background-color: #F5FBFE;
 `;
 
 const Container = styled.div`

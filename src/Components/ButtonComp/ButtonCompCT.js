@@ -2,9 +2,9 @@ import React from 'react'
 import styled from 'styled-components'
 
 
-export default function ButtonComp() {
+export default function ButtonCompCT() {
   return (
-    <Button>Get Started</Button>
+    <Button>Contact Us</Button>
   )
 }
 
@@ -15,7 +15,7 @@ const Button = styled.button`
     border: none;
     outline: none;
     color: white;
-    border-radius: 10px;
+    border-radius: 5px;
     cursor: pointer;
     transition: all 500ms;
     font-weight: 600;
